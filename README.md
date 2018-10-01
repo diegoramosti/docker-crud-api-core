@@ -1,5 +1,5 @@
 # docker-crud-api-core
-crud básico + .net core + entiry + docker configurado.
+crud básico + .net core + entity + docker configurado.
 
 Com docker rodando na máquina local, só executar comando abaixo:
 docker-compose up -d
