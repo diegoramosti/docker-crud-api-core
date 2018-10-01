@@ -1,0 +1,14 @@
+C:\Users\diego.ramos\Documents\Estudo\Docker\Rest\CrudBasico\bin\Debug\netcoreapp2.1\crud.deps.json
+C:\Users\diego.ramos\Documents\Estudo\Docker\Rest\CrudBasico\bin\Debug\netcoreapp2.1\crud.runtimeconfig.json
+C:\Users\diego.ramos\Documents\Estudo\Docker\Rest\CrudBasico\bin\Debug\netcoreapp2.1\crud.runtimeconfig.dev.json
+C:\Users\diego.ramos\Documents\Estudo\Docker\Rest\CrudBasico\bin\Debug\netcoreapp2.1\crud.dll
+C:\Users\diego.ramos\Documents\Estudo\Docker\Rest\CrudBasico\bin\Debug\netcoreapp2.1\crud.pdb
+C:\Users\diego.ramos\Documents\Estudo\Docker\Rest\CrudBasico\obj\Debug\netcoreapp2.1\crud.csprojAssemblyReference.cache
+C:\Users\diego.ramos\Documents\Estudo\Docker\Rest\CrudBasico\obj\Debug\netcoreapp2.1\crud.csproj.CoreCompileInputs.cache
+C:\Users\diego.ramos\Documents\Estudo\Docker\Rest\CrudBasico\obj\Debug\netcoreapp2.1\crud.RazorAssemblyInfo.cache
+C:\Users\diego.ramos\Documents\Estudo\Docker\Rest\CrudBasico\obj\Debug\netcoreapp2.1\crud.RazorAssemblyInfo.cs
+C:\Users\diego.ramos\Documents\Estudo\Docker\Rest\CrudBasico\obj\Debug\netcoreapp2.1\crud.AssemblyInfoInputs.cache
+C:\Users\diego.ramos\Documents\Estudo\Docker\Rest\CrudBasico\obj\Debug\netcoreapp2.1\crud.AssemblyInfo.cs
+C:\Users\diego.ramos\Documents\Estudo\Docker\Rest\CrudBasico\obj\Debug\netcoreapp2.1\crud.RazorTargetAssemblyInfo.cache
+C:\Users\diego.ramos\Documents\Estudo\Docker\Rest\CrudBasico\obj\Debug\netcoreapp2.1\crud.dll
+C:\Users\diego.ramos\Documents\Estudo\Docker\Rest\CrudBasico\obj\Debug\netcoreapp2.1\crud.pdb

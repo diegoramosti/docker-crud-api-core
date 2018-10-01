@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  apicrudbasico:
+    image: crud-alpine
+    build:
+      context: .
+    ports:
+      - "20000:80"
