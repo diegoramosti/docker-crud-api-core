@@ -31,13 +31,13 @@ namespace crud.Controllers
         }
 
         [HttpPost]
-        public ActionResult<IEnumerable<Autor>> Post(Autor autor)
+        public ActionResult<bool> Post(Autor autor)
         {
             try
             {
                 _context.AutorItems.Add(autor);
                 _context.SaveChanges();
-                return Ok(_context.AutorItems.ToList());
+                return Ok(true);
             }
             catch (Exception e)
             {
